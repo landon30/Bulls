@@ -28,6 +28,7 @@
 + [Java日志输出之console、stdout、stderr、nohup.out、三方日志库](https://github.com/landon30/Bulls/wiki/java-log-detail)
 + [foreach-remove不一定抛出ConcurrentModificationException](https://github.com/landon30/Bulls/wiki/foreach-remove-concurrentmodificationexception)
 + [Linux kill & Java shutdownhook](https://github.com/landon30/Bulls/wiki/linux-kill-&-java-shutdownhook)
++ [Java中float和double精度问题](https://github.com/landon30/Bulls/wiki/java-float-double-precision)
 
 ## 游戏服务器日常分享
 + [我招聘Java初中级工程师的10个笔试题目](https://github.com/landon30/Bulls/wiki/ten-java-written-test)

@@ -29,6 +29,7 @@
 + [foreach-remove不一定抛出ConcurrentModificationException](https://github.com/landon30/Bulls/wiki/foreach-remove-concurrentmodificationexception)
 + [Linux kill & Java shutdownhook](https://github.com/landon30/Bulls/wiki/linux-kill-&-java-shutdownhook)
 + [Java中float和double精度问题](https://github.com/landon30/Bulls/wiki/java-float-double-precision)
++ [关闭终端进程不退出的方法](https://github.com/landon30/Bulls/wiki/nohup-run-sevver)
 
 ## 游戏服务器日常分享
 + [我招聘Java初中级工程师的10个笔试题目](https://github.com/landon30/Bulls/wiki/ten-java-written-test)

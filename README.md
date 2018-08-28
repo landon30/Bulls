@@ -22,6 +22,7 @@
 + [游戏服务器数据存储策略和宕机保护](https://github.com/landon30/Bulls/wiki/gameserver-save-strategy)
 + [游戏服务器之Java进阶实战（HotSwap/Script/JVM）](https://github.com/landon30/Bulls/wiki/gameserver-java-advanced)
 + [Java I/O 之Netty实战](https://github.com/landon30/Bulls/wiki/java-io-netty-practice)
++ [Java日志最佳实践-游戏项目](https://github.com/landon30/Bulls/wiki/java-log-practice)
 
 ## Java解惑系列
 

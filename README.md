@@ -28,13 +28,13 @@
 + [Java I/O 之Netty实战](https://github.com/landon30/Bulls/wiki/java-io-netty-practice)
 + [Java日志最佳实践-游戏项目](https://github.com/landon30/Bulls/wiki/java-log-practice)
 + [Java项目Mongo问题总结](https://github.com/landon30/Bulls/wiki/java-mongo-summary)
++ [Linux kill & Java shutdownhook](https://github.com/landon30/Bulls/wiki/linux-kill-&-java-shutdownhook)
++ [关闭终端进程不退出的方法](https://github.com/landon30/Bulls/wiki/nohup-run-server)
 
 ## Java游戏服务器日常系列
 + [Java日志输出的一些概念](https://github.com/landon30/Bulls/wiki/java-log-detail)
 + [foreach-remove不一定抛出ConcurrentModificationException](https://github.com/landon30/Bulls/wiki/foreach-remove-concurrentmodificationexception)
-+ [Linux kill & Java shutdownhook](https://github.com/landon30/Bulls/wiki/linux-kill-&-java-shutdownhook)
 + [Java中浮点数精度问题](https://github.com/landon30/Bulls/wiki/java-float-double-precision)
-+ [关闭终端进程不退出的方法](https://github.com/landon30/Bulls/wiki/nohup-run-sevver)
 + [随机数阻塞问题](https://github.com/landon30/Bulls/wiki/securerandom-slow)
 + [Java8时间API使用不当的问题](https://github.com/landon30/Bulls/wiki/java8-time-problems)
 + [protobuf压缩的问题](https://github.com/landon30/Bulls/wiki/protobuf-compress)

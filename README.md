@@ -22,6 +22,7 @@
 
 ## Java游戏服务器开发实战系列
 + [Java游戏服务器实战概述](https://github.com/landon30/Bulls/wiki/java-gameserver-practice)
++ [游戏服务器架构sample文档](https://github.com/landon30/Bulls/wiki/sample-gameserver-architecture)
 + [游戏服务器数据存储策略和宕机保护](https://github.com/landon30/Bulls/wiki/gameserver-save-strategy)
 + [游戏服务器之Java进阶实战（HotSwap/Script/JVM）](https://github.com/landon30/Bulls/wiki/gameserver-java-advanced)
 + [Java I/O 之Netty实战](https://github.com/landon30/Bulls/wiki/java-io-netty-practice)

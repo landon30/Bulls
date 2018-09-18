@@ -40,12 +40,10 @@
 + [protobuf压缩的问题](https://github.com/landon30/Bulls/wiki/protobuf-compress)
 + [排序异常](https://github.com/landon30/Bulls/wiki/sort-exception)
 
-## JNI/lua系列
+## JNI/Lua系列
 + [JNI测试](https://github.com/landon30/Bulls/wiki/jni-cpp-build)
 + [Java调用JNI路径总结](https://github.com/landon30/Bulls/wiki/jni-path)
 + [System.loadLibrary异常](https://github.com/landon30/Bulls/wiki/jni-loadLibrary-exception)
-+ [mac run lua](https://github.com/landon30/Bulls/wiki/mac-run-lua)
-+ [server run lua](https://github.com/landon30/Bulls/wiki/server-run-lua)
 
 ## 招聘面试系列
 + [我招聘Java初中级工程师的10个笔试题目](https://github.com/landon30/Bulls/wiki/ten-java-written-test)

@@ -19,6 +19,7 @@
 + [fastJson与一起堆内存溢出'血案'](https://github.com/landon30/Bulls/wiki/fastjson-heap-oom)
 + [quartz线程blocked](https://github.com/landon30/Bulls/wiki/quartz-blocked)
 + [JVM metaspace outofmemory](https://github.com/landon30/Bulls/wiki/metaspace-outofmemory)
++ [服务器调优时发现的jdk bugs](https://github.com/landon30/Bulls/wiki/jdk-bugs)
 
 ## Java游戏服务器开发实战系列
 + [Java游戏服务器实战概述](https://github.com/landon30/Bulls/wiki/java-gameserver-practice)

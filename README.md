@@ -9,6 +9,7 @@
 ## 工具篇系列
 + [Git基础实践](https://github.com/landon30/Bulls/wiki/git-basic-practice)
 + [Markdown基础](https://github.com/landon30/Bulls/wiki/markdown-basic)
++ [wget批量下载gitlab上传的文件](https://github.com/landon30/Bulls/wiki/wget-batch-download-gitlab-uploads)
 
 ## Java游戏服务器调优系列
 + [Java游戏服务器调优实践](https://github.com/landon30/Bulls/wiki/java-profiling-practice)

@@ -33,6 +33,7 @@
 + [Linux kill & Java shutdownhook](https://github.com/landon30/Bulls/wiki/linux-kill-&-java-shutdownhook)
 + [关闭终端进程不退出的方法](https://github.com/landon30/Bulls/wiki/nohup-run-server)
 + [线上问题排查定位实战](https://github.com/landon30/Bulls/wiki/online-problems-practice)
++ [世界boss卡服务器问题](https://github.com/landon30/Bulls/wiki/worldboss-blocked-problems)
 
 ## Java游戏服务器日常系列
 + [Java日志输出的一些概念](https://github.com/landon30/Bulls/wiki/java-log-detail)

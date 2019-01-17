@@ -21,6 +21,7 @@
 + [quartz线程blocked](https://github.com/landon30/Bulls/wiki/quartz-blocked)
 + [JVM metaspace outofmemory](https://github.com/landon30/Bulls/wiki/metaspace-outofmemory)
 + [服务器调优时发现的jdk bugs](https://github.com/landon30/Bulls/wiki/jdk-bugs)
++ [发布一个辅助排查内存泄露的小工具](https://github.com/landon30/Bulls/wiki/histo-diff-tool-4-check-memory-leak)
 
 ## Java游戏服务器开发实战系列
 + [Java游戏服务器实战概述](https://github.com/landon30/Bulls/wiki/java-gameserver-practice)

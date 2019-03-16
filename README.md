@@ -6,10 +6,10 @@
 
 [Bulls wiki home](https://github.com/landon30/Bulls/wiki)
 
-## 工具篇系列
-+ [Git基础实践](https://github.com/landon30/Bulls/wiki/git-basic-practice)
-+ [Markdown基础](https://github.com/landon30/Bulls/wiki/markdown-basic)
-+ [wget批量下载gitlab上传的文件](https://github.com/landon30/Bulls/wiki/wget-batch-download-gitlab-uploads)
+## 游戏技术精华分享系列（持续更新）
++ [游戏技术精华分享之游戏服务器架构](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-gameserver-architecture)
++ [游戏技术精华分享之腾讯游戏学院-后端篇](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-tencent-gameinstitute-backend)
++ [游戏技术精华分享之游戏服务器压测](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-gameserver-stress-testing)
 
 ## Java游戏服务器调优系列
 + [Java游戏服务器调优实践](https://github.com/landon30/Bulls/wiki/java-profiling-practice)
@@ -34,7 +34,6 @@
 + [Linux kill & Java shutdownhook](https://github.com/landon30/Bulls/wiki/linux-kill-&-java-shutdownhook)
 + [关闭终端进程不退出的方法](https://github.com/landon30/Bulls/wiki/nohup-run-server)
 + [线上问题排查定位实战](https://github.com/landon30/Bulls/wiki/online-problems-practice)
-+ [世界boss卡服务器问题](https://github.com/landon30/Bulls/wiki/worldboss-blocked-problems)
 
 ## Java游戏服务器日常系列
 + [Java日志输出的一些概念](https://github.com/landon30/Bulls/wiki/java-log-detail)
@@ -44,6 +43,12 @@
 + [Java8时间API使用不当的问题](https://github.com/landon30/Bulls/wiki/java8-time-problems)
 + [protobuf压缩的问题](https://github.com/landon30/Bulls/wiki/protobuf-compress)
 + [排序异常](https://github.com/landon30/Bulls/wiki/sort-exception)
++ [世界boss卡服务器问题](https://github.com/landon30/Bulls/wiki/worldboss-blocked-problems)
+
+## 工具篇系列
++ [Git基础实践](https://github.com/landon30/Bulls/wiki/git-basic-practice)
++ [Markdown基础](https://github.com/landon30/Bulls/wiki/markdown-basic)
++ [wget批量下载gitlab上传的文件](https://github.com/landon30/Bulls/wiki/wget-batch-download-gitlab-uploads)
 
 ## JNI/Lua系列
 + [JNI测试](https://github.com/landon30/Bulls/wiki/jni-cpp-build)

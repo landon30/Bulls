@@ -8,8 +8,9 @@
 
 ## 游戏技术精华分享系列（持续更新）
 + [游戏技术精华分享之游戏服务器架构](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-gameserver-architecture)
-+ [游戏技术精华分享之腾讯游戏学院-后端篇](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-tencent-gameinstitute-backend)
 + [游戏技术精华分享之游戏服务器压测](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-gameserver-stress-testing)
++ [游戏技术精华分享之腾讯游戏学院-后端篇](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-tencent-gameinstitute-backend)
++ [游戏技术精华分享之腾讯游戏学院-前端篇](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-tencent-gameinstitute-frontend)
 
 ## Java游戏服务器调优系列
 + [Java游戏服务器调优实践](https://github.com/landon30/Bulls/wiki/java-profiling-practice)

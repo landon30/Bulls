@@ -11,6 +11,7 @@
 + [游戏技术精华分享之游戏服务器压测](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-gameserver-stress-testing)
 + [游戏技术精华分享之腾讯游戏学院-后端篇](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-tencent-gameinstitute-backend)
 + [游戏技术精华分享之腾讯游戏学院-前端篇](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-tencent-gameinstitute-frontend)
++ [游戏技术精华分享之网易游戏学院-前端、后端、测试、devops等](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-netease-game-academy)
 
 ## Java游戏服务器调优系列
 + [Java游戏服务器调优实践](https://github.com/landon30/Bulls/wiki/java-profiling-practice)

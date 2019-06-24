@@ -6,13 +6,6 @@
 
 [Bulls wiki home](https://github.com/landon30/Bulls/wiki)
 
-## 游戏技术精华分享系列（持续更新）
-+ [游戏技术精华分享之游戏服务器架构](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-gameserver-architecture)
-+ [游戏技术精华分享之游戏服务器压测](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-gameserver-stress-testing)
-+ [游戏技术精华分享之腾讯游戏学院-后端篇](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-tencent-gameinstitute-backend)
-+ [游戏技术精华分享之腾讯游戏学院-前端篇](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-tencent-gameinstitute-frontend)
-+ [游戏技术精华分享之网易游戏学院-前端、后端、测试、devops等](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-netease-game-academy)
-
 ## Java游戏服务器调优系列
 + [Java游戏服务器调优实践](https://github.com/landon30/Bulls/wiki/java-profiling-practice)
 + [Java调优系列之工具篇之btrace、gperftools](https://github.com/landon30/Bulls/wiki/java-profiling-tools)
@@ -37,6 +30,13 @@
 + [Linux kill & Java shutdownhook](https://github.com/landon30/Bulls/wiki/linux-kill-&-java-shutdownhook)
 + [关闭终端进程不退出的方法](https://github.com/landon30/Bulls/wiki/nohup-run-server)
 + [线上问题排查定位实战](https://github.com/landon30/Bulls/wiki/online-problems-practice)
+
+## 游戏技术精华分享系列（持续更新）
++ [游戏技术精华分享之游戏服务器架构](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-gameserver-architecture)
++ [游戏技术精华分享之游戏服务器压测](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-gameserver-stress-testing)
++ [游戏技术精华分享之腾讯游戏学院-后端篇](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-tencent-gameinstitute-backend)
++ [游戏技术精华分享之腾讯游戏学院-前端篇](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-tencent-gameinstitute-frontend)
++ [游戏技术精华分享之网易游戏学院-前端、后端、测试、devops等](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-netease-game-academy)
 
 ## Java游戏服务器日常系列
 + [Java日志输出的一些概念](https://github.com/landon30/Bulls/wiki/java-log-detail)

@@ -18,6 +18,7 @@
 + [服务器调优时发现的jdk bugs](https://github.com/landon30/Bulls/wiki/jdk-bugs)
 + [发布一个辅助排查内存泄露的小工具](https://github.com/landon30/Bulls/wiki/histo-diff-tool-4-check-memory-leak)
 + [jackson实现的LRUMap(LinkedHashMap + ReentrantReadWriteLock)引起的死循环问题](https://github.com/landon30/Bulls/wiki/LinkedHashMap-ReentrantReadWriteLock-infinite-loop)
++ [一次艰难的内存泄露排查](https://github.com/landon30/Bulls/wiki/one-case-of-memory-leak-troubleshoot)
 
 ## Java游戏服务器开发实战系列
 + [Java游戏服务器实战概述](https://github.com/landon30/Bulls/wiki/java-gameserver-practice)

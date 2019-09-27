@@ -6,6 +6,9 @@
 
 [Bulls wiki home](https://github.com/landon30/Bulls/wiki)
 
+## 游戏上线标准
++ [游戏上线标准 v0.1.0(后端、前端、QA)](https://github.com/landon30/Bulls/wiki/online-checklist)
+
 ## Java游戏服务器调优系列
 + [Java游戏服务器调优实践](https://github.com/landon30/Bulls/wiki/java-profiling-practice)
 + [Java调优系列之工具篇之btrace、gperftools](https://github.com/landon30/Bulls/wiki/java-profiling-tools)

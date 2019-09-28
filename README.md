@@ -23,6 +23,7 @@
 + [发布一个辅助排查内存泄露的小工具](https://github.com/landon30/Bulls/wiki/histo-diff-tool-4-check-memory-leak)
 + [某卡牌游戏留存测试第一天玩家反馈卡顿问题排查](https://github.com/landon30/Bulls/wiki/logback-blocked-the-logic-thread)
 + [JVM crash when overwritten running jar](https://github.com/landon30/Bulls/wiki/jvm-crash-overwritten)
++ [世界boss卡服务器问题](https://github.com/landon30/Bulls/wiki/worldboss-blocked-problems)
 + [神奇的Java'僵尸'进程问题](https://github.com/landon30/Bulls/wiki/java-defunct)
 + [quartz线程blocked](https://github.com/landon30/Bulls/wiki/quartz-blocked)
 
@@ -53,7 +54,6 @@
 + [Java8时间API使用不当的问题](https://github.com/landon30/Bulls/wiki/java8-time-problems)
 + [protobuf压缩的问题](https://github.com/landon30/Bulls/wiki/protobuf-compress)
 + [排序异常](https://github.com/landon30/Bulls/wiki/sort-exception)
-+ [世界boss卡服务器问题](https://github.com/landon30/Bulls/wiki/worldboss-blocked-problems)
 
 ## 工具篇系列
 + [Git基础实践](https://github.com/landon30/Bulls/wiki/git-basic-practice)

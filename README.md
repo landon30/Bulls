@@ -8,6 +8,7 @@
 
 ## 游戏上线标准
 + [游戏上线标准 v0.1.0(后端、前端、QA)](https://github.com/landon30/Bulls/wiki/online-checklist)
++ [游戏上线标准之git分支模型，cherry-pick#ABA问题](https://github.com/landon30/Bulls/wiki/git-cherry-pick-aba-problem)
 
 ## Java游戏服务器调优系列
 + [Java游戏服务器调优实践](https://github.com/landon30/Bulls/wiki/java-profiling-practice)

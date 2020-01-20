@@ -6,7 +6,7 @@
 
 [Bulls wiki home](https://github.com/landon30/Bulls/wiki)
 
-## 2020干货
+## 2020
 1. [Core dump实战分析之Java版](https://github.com/landon30/Bulls/wiki/coredump-practice)
 
 ## 游戏上线标准

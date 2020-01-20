@@ -6,6 +6,9 @@
 
 [Bulls wiki home](https://github.com/landon30/Bulls/wiki)
 
+## 2020干货
+1. [Core dump实战分析之Java版](https://github.com/landon30/Bulls/wiki/coredump-practice)
+
 ## 游戏上线标准
 + [游戏上线标准 v0.1.0(后端、前端、QA)](https://github.com/landon30/Bulls/wiki/online-checklist)
 + [游戏上线标准之git分支模型，cherry-pick#ABA问题](https://github.com/landon30/Bulls/wiki/git-cherry-pick-aba-problem)

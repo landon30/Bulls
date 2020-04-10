@@ -7,8 +7,12 @@
 [Bulls wiki home](https://github.com/landon30/Bulls/wiki)
 
 ## 2020
-1. [2019游戏项目技术复盘](https://github.com/landon30/Bulls/wiki/2019-tech-review)
-2. [Core dump实战分析之Java版](https://github.com/landon30/Bulls/wiki/coredump-practice)
++ [2019游戏项目技术复盘](https://github.com/landon30/Bulls/wiki/2019-tech-review)
++ [Core dump实战分析之Java版](https://github.com/landon30/Bulls/wiki/coredump-practice)
+
+## 读书笔记
++ [Java异步编程实战](https://github.com/landon30/Bulls/wiki/book-notes-java-async-programming)
++ [深入理解Java虚拟机#第三版#Java内存模型与线程](https://github.com/landon30/Bulls/wiki/book-notes-java-memory-model)
 
 ## 游戏上线标准
 + [游戏上线标准 v0.1.0(后端、前端、QA)](https://github.com/landon30/Bulls/wiki/online-checklist)

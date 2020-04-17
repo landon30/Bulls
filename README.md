@@ -13,6 +13,7 @@
 ## 读书笔记
 + [Java异步编程实战](https://github.com/landon30/Bulls/wiki/book-notes-java-async-programming)
 + [深入理解Java虚拟机#第三版#Java内存模型与线程](https://github.com/landon30/Bulls/wiki/book-notes-java-memory-model)
++ [7周7并发](https://github.com/landon30/Bulls/wiki/book-notes-seven-concurrency-models-in-seven-weeks)
 
 ## 游戏上线标准
 + [游戏上线标准 v0.1.0(后端、前端、QA)](https://github.com/landon30/Bulls/wiki/online-checklist)

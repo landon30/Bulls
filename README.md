@@ -11,7 +11,7 @@
 + [Core dump实战分析之Java版](https://github.com/landon30/Bulls/wiki/coredump-practice)
 
 ## 异步
-+ [loom项目提案-翻译](https://github.com/landon30/Bulls/wiki/loom-proposal-translate)
++ [loom项目提案(loom proposal)-翻译](https://github.com/landon30/Bulls/wiki/loom-proposal-translate)
 
 ## 读书笔记
 + [Java异步编程实战](https://github.com/landon30/Bulls/wiki/book-notes-java-async-programming)

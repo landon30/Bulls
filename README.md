@@ -10,6 +10,9 @@
 + [2019游戏项目技术复盘](https://github.com/landon30/Bulls/wiki/2019-tech-review)
 + [Core dump实战分析之Java版](https://github.com/landon30/Bulls/wiki/coredump-practice)
 
+## 异步
++ [loom项目提案-翻译](https://github.com/landon30/Bulls/wiki/loom-proposal-translate)
+
 ## 读书笔记
 + [Java异步编程实战](https://github.com/landon30/Bulls/wiki/book-notes-java-async-programming)
 + [深入理解Java虚拟机#第三版#Java内存模型与线程](https://github.com/landon30/Bulls/wiki/book-notes-java-memory-model)

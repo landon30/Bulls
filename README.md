@@ -12,6 +12,9 @@
 
 ## 异步
 + [loom项目提案(loom proposal)-翻译](https://github.com/landon30/Bulls/wiki/loom-proposal-translate)
++ [Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://github.com/landon30/Bulls/wiki/loom-talks-devox-be-2019)
++ [Why Continuations are Coming to Java](https://github.com/landon30/Bulls/wiki/loom-talks-qcon-london-2019)
+
 
 ## 读书笔记
 + [Java异步编程实战](https://github.com/landon30/Bulls/wiki/book-notes-java-async-programming)

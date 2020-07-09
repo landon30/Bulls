@@ -7,6 +7,7 @@
 [Bulls wiki home](https://github.com/landon30/Bulls/wiki)
 
 ## 2020
++ [游戏技术中台调研](https://github.com/landon30/Bulls/wiki/technology-middle-platform-research)
 + [2019游戏项目技术复盘](https://github.com/landon30/Bulls/wiki/2019-tech-review)
 + [Core dump实战分析之Java版](https://github.com/landon30/Bulls/wiki/coredump-practice)
 

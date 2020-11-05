@@ -1,11 +1,3 @@
-# 概述
-
-> 对外的技术分享合集，主要包括游戏服务器、Java、性能调优等
-
-# wiki home
-
-[Bulls wiki home](https://github.com/landon30/Bulls/wiki)
-
 ## 2020
 + [读书笔记#深度剖析ApacheDubbo核心技术内幕](https://github.com/landon30/Bulls/wiki/dubbo-reading-notes)
 + [游戏技术中台调研](https://github.com/landon30/Bulls/wiki/technology-middle-platform-research)
@@ -16,7 +8,6 @@
 + [loom项目提案(loom proposal)-翻译](https://github.com/landon30/Bulls/wiki/loom-proposal-translate)
 + [Devoxx BE 2019-Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://github.com/landon30/Bulls/wiki/loom-talks-devox-be-2019)
 + [QCon London 2019-Why Continuations are Coming to Java](https://github.com/landon30/Bulls/wiki/loom-talks-qcon-london-2019)
-
 
 ## 读书笔记
 + [Java异步编程实战](https://github.com/landon30/Bulls/wiki/book-notes-java-async-programming)
@@ -57,12 +48,9 @@
 + [关闭终端进程不退出的方法](https://github.com/landon30/Bulls/wiki/nohup-run-server)
 + [线上问题排查定位实战](https://github.com/landon30/Bulls/wiki/online-problems-practice)
 
-## 游戏技术精华分享系列（持续更新）
-+ [游戏技术精华分享之游戏服务器架构](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-gameserver-architecture)
-+ [游戏技术精华分享之游戏服务器压测](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-gameserver-stress-testing)
-+ [游戏技术精华分享之腾讯游戏学院-后端篇](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-tencent-gameinstitute-backend)
-+ [游戏技术精华分享之腾讯游戏学院-前端篇](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-tencent-gameinstitute-frontend)
-+ [游戏技术精华分享之网易游戏学院-前端、后端、测试、devops等](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-netease-game-academy)
+## blogjava 精华
++ [分布式游戏服务器技术调研(MMO)](https://github.com/landon30/Bulls/wiki/mmo--distributed-architecture-research)
+
 
 ## Java游戏服务器日常系列
 + [Java日志输出的一些概念](https://github.com/landon30/Bulls/wiki/java-log-detail)
@@ -85,3 +73,10 @@
 
 ## 招聘面试系列
 + [我招聘Java初中级工程师的10个笔试题目](https://github.com/landon30/Bulls/wiki/ten-java-written-test)
+
+## 游戏技术精华分享系列（持续更新）
++ [游戏技术精华分享之游戏服务器架构](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-gameserver-architecture)
++ [游戏技术精华分享之游戏服务器压测](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-gameserver-stress-testing)
++ [游戏技术精华分享之腾讯游戏学院-后端篇](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-tencent-gameinstitute-backend)
++ [游戏技术精华分享之腾讯游戏学院-前端篇](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-tencent-gameinstitute-frontend)
++ [游戏技术精华分享之网易游戏学院-前端、后端、测试、devops等](https://github.com/landon30/Bulls/wiki/game-technologies-essence-share-netease-game-academy)

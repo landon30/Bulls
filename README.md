@@ -50,12 +50,19 @@
 + [关闭终端进程不退出的方法](https://github.com/landon30/Bulls/wiki/nohup-run-server)
 + [线上问题排查定位实战](https://github.com/landon30/Bulls/wiki/online-problems-practice)
 
-## blogjava 精华
+## blogjava 摘选
 + [分布式游戏服务器技术调研(MMO)](https://github.com/landon30/Bulls/wiki/mmo--distributed-architecture-research)
 + [Game Loop](https://github.com/landon30/Bulls/wiki/game-loop)
 + [读书笔记#Netty权威指南2](https://github.com/landon30/Bulls/wiki/netty-guide-2-reading-notes)
 + [读书笔记#Java7并发编程实战手册](https://github.com/landon30/Bulls/wiki/java7-concurrent-reading-notes)
 + [一个入门rpc框架的分析学习](https://github.com/landon30/Bulls/wiki/rpc-sample-analysis)
++ [Java MMO手游整体服务器架构设计摘要](https://github.com/landon30/Bulls/wiki/java-mmo-architecture)
++ [手游Java游戏服务器线上真实案例分析](https://github.com/landon30/Bulls/wiki/mobile-games-issues)
++ [网络游戏的网络协议设计之防外挂](https://github.com/landon30/Bulls/wiki/anti-plug-practice)
++ [读书笔记#大型网站技术架构-核心技术原理与案例分析](https://github.com/landon30/Bulls/wiki/website-architecture-reading-notes)
++ [Networking Basics：TCP and UDP Basics](https://github.com/landon30/Bulls/wiki/tcp-ip-basics)
++ [游戏服务器基础设计文档和规范](https://github.com/landon30/Bulls/wiki/game-server-basic-design)
++ [网络游戏同步基础](https://github.com/landon30/Bulls/wiki/network-synchronization-basics)
 
 
 ## Java游戏服务器日常系列

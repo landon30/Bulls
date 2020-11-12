@@ -20,7 +20,7 @@
 + [游戏上线标准 v0.1.0(后端、前端、QA)](https://github.com/landon30/Bulls/wiki/online-checklist)
 + [游戏上线标准之git分支模型，cherry-pick#ABA问题](https://github.com/landon30/Bulls/wiki/git-cherry-pick-aba-problem)
 
-## Java游戏服务器调优系列
+## 游戏服务器调优系列
 + [Java游戏服务器调优实践](https://github.com/landon30/Bulls/wiki/java-profiling-practice)
 + [Java调优系列之工具篇之btrace、gperftools](https://github.com/landon30/Bulls/wiki/java-profiling-tools)
 + [JVM内存调优系列之非典型术语介绍(shallow/retained/rss/reserved/committed)](https://github.com/landon30/Bulls/wiki/jvm-memory-detail)
@@ -38,7 +38,7 @@
 + [神奇的Java'僵尸'进程问题](https://github.com/landon30/Bulls/wiki/java-defunct)
 + [quartz线程blocked](https://github.com/landon30/Bulls/wiki/quartz-blocked)
 
-## Java游戏服务器开发实战系列
+## 游戏服务器开发实战系列
 + [Java游戏服务器实战概述](https://github.com/landon30/Bulls/wiki/java-gameserver-practice)
 + [游戏服务器架构sample文档](https://github.com/landon30/Bulls/wiki/sample-gameserver-architecture)
 + [游戏服务器数据存储策略和宕机保护](https://github.com/landon30/Bulls/wiki/gameserver-save-strategy)
@@ -65,7 +65,7 @@
 + [网络游戏同步基础](https://github.com/landon30/Bulls/wiki/network-synchronization-basics)
 
 
-## Java游戏服务器日常系列
+## 游戏服务器日常系列
 + [Java日志输出的一些概念](https://github.com/landon30/Bulls/wiki/java-log-detail)
 + [foreach-remove不一定抛出ConcurrentModificationException](https://github.com/landon30/Bulls/wiki/foreach-remove-concurrentmodificationexception)
 + [Java中浮点数精度问题](https://github.com/landon30/Bulls/wiki/java-float-double-precision)

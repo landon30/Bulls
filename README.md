@@ -18,6 +18,7 @@
 
 ## 大会笔记
 + [中国 Unity 线上技术大会 day1](https://github.com/landon30/Bulls/wiki/unity-online-day1-notes)
++ [Unity 2019 新特性在次时代手游《黑暗之潮》中的应用经验及技术分享](https://github.com/landon30/Bulls/wiki/unity-online-2020-unity-new-feature-use)
 
 ## 游戏上线标准
 + [游戏上线标准 v0.1.0(后端、前端、QA)](https://github.com/landon30/Bulls/wiki/online-checklist)

@@ -1,5 +1,8 @@
 [Bulls wiki home](https://github.com/landon30/Bulls/wiki)
 
+## 2021
++ [一套新游戏服务器解决方案Bulls提案](https://github.com/landon30/Bulls/wiki/Bulls-Proposal)
+
 ## 2020
 + [读书笔记#深度剖析ApacheDubbo核心技术内幕](https://github.com/landon30/Bulls/wiki/dubbo-reading-notes)
 + [游戏技术中台调研](https://github.com/landon30/Bulls/wiki/technology-middle-platform-research)

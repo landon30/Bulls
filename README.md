@@ -19,11 +19,6 @@
 + [深入理解Java虚拟机#第三版#Java内存模型与线程](https://github.com/landon30/Bulls/wiki/book-notes-java-memory-model)
 + [7周7并发](https://github.com/landon30/Bulls/wiki/book-notes-seven-concurrency-models-in-seven-weeks)
 
-## 大会笔记
-+ [中国 Unity 线上技术大会 day1](https://github.com/landon30/Bulls/wiki/unity-online-day1-notes)
-+ [Unity 2019 新特性在次时代手游《黑暗之潮》中的应用经验及技术分享](https://github.com/landon30/Bulls/wiki/unity-online-2020-unity-new-feature-use)
-+ [Unity 性能优化及企业服务介绍](https://github.com/landon30/Bulls/wiki/unity-online-2020-unity-service)
-+ [腾讯云云开发-使用Unity开发服务器逻辑并自动部署](https://github.com/landon30/Bulls/wiki/unity-online-2020-unity-cloud)
 
 ## 游戏上线标准
 + [游戏上线标准 v0.1.0(后端、前端、QA)](https://github.com/landon30/Bulls/wiki/online-checklist)
@@ -72,6 +67,12 @@
 + [Networking Basics：TCP and UDP Basics](https://github.com/landon30/Bulls/wiki/tcp-ip-basics)
 + [游戏服务器基础设计文档和规范](https://github.com/landon30/Bulls/wiki/game-server-basic-design)
 + [网络游戏同步基础](https://github.com/landon30/Bulls/wiki/network-synchronization-basics)
+
+## 大会笔记
++ [中国 Unity 线上技术大会 day1](https://github.com/landon30/Bulls/wiki/unity-online-day1-notes)
++ [Unity 2019 新特性在次时代手游《黑暗之潮》中的应用经验及技术分享](https://github.com/landon30/Bulls/wiki/unity-online-2020-unity-new-feature-use)
++ [Unity 性能优化及企业服务介绍](https://github.com/landon30/Bulls/wiki/unity-online-2020-unity-service)
++ [腾讯云云开发-使用Unity开发服务器逻辑并自动部署](https://github.com/landon30/Bulls/wiki/unity-online-2020-unity-cloud)
 
 
 ## 游戏服务器日常系列

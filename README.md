@@ -4,6 +4,7 @@
 + [一套新游戏服务器解决方案Bulls提案](https://github.com/landon30/Bulls/wiki/Bulls-Proposal)
 + [凤凰架构读书笔记之PhoenixServer翻译](https://github.com/landon30/Bulls/wiki/phoenix-architecture-reading-notes-phoenix-server)
 + [关于一致性哈希算法在游戏服务器端的思考](https://github.com/landon30/Bulls/wiki/consistent-hashing-notes)
++ [知乎-忍者必须死3的一些记录](https://github.com/landon30/Bulls/wiki/zhihu-gameserver-reading-notes-1)
 
 ## 2020
 + [读书笔记#深度剖析ApacheDubbo核心技术内幕](https://github.com/landon30/Bulls/wiki/dubbo-reading-notes)

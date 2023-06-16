@@ -1,7 +1,7 @@
 [Bulls wiki home](https://github.com/landon30/Bulls/wiki)
 
 ## 2023
-# [微信读书 《Cocos Creator 3.x 游戏开发入门与实战》](https://github.com/landon30/creator-newbie#readme)
++ [微信读书 《Cocos Creator 3.x 游戏开发入门与实战》](https://github.com/landon30/creator-newbie#readme)
 
 ## 2021
 + [一套新游戏服务器解决方案Bulls提案](https://github.com/landon30/Bulls/wiki/Bulls-Proposal)
